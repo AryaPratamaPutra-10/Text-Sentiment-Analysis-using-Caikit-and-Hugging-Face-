@@ -27,3 +27,6 @@ python start_runtime.py
 ```
 python client.py
 ```
+
+### Hasil
+![Cuplikan layar 2024-11-10 040146](https://github.com/user-attachments/assets/700ab619-1a96-49cb-8ac2-6f4fcbb74bca)
