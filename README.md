@@ -17,7 +17,9 @@
 
 
 <div>
-<h2 align="center"> Analisis </h2>
+<h2 align="center"> Dokumentasi </h2>
+  <p> 1. Install the requirements </p>
+  <p>pip install -r requirements.txt</p>
 <p1 align="left"> - Zero-Shot Classification
 Merupakan jenis klasifikasi dengan metode Zero-Shot yang dimana metode ini mengklasifikasi teks ke dalam label yang diberikan sesuai dengan kategorinya dan semakin mendekati 1 berarti semakin akurat, metode ini mencoba menghubungkan konsep dengan hubungan kata - kata </p1>
   
