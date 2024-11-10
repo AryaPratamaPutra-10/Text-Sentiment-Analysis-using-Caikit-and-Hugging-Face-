@@ -2,11 +2,12 @@
 <p align="center"> IBMSkillsNetwork GPXX0PYAEN </h1>
 
 
-<p>Author : Cognitive Class AI
-Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Text Sentiment Analysis using Caikit and Hugging Face from CognitiveClass.ai</p>
-### Mentee Info
-### - Name : Arya Pratama Putra
-### - Program : IBM Advance AI @ Infinite Learning
+<p>Author : Cognitive Class AI </p>
+<p>Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Text Sentiment Analysis using Caikit and Hugging Face from CognitiveClass.ai</p>
+
+<p>Mentee Info</p>
+<p>- Name : Arya Pratama Putra</p>
+<p> - Program : IBM Advance AI @ Infinite Learning </p>
 
 <div align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
