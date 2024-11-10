@@ -14,12 +14,16 @@
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
 </div>
 
-
-
-<div>
-<h2 align="center"> Dokumentasi </h2>
-  <p> 1. Install the requirements </p>
-  ```
+### Documentation
+1. Install the requirements
+```
 pip install -r requirements.txt
 ```
-
+2. Start the runtime
+```
+python start_runtime.py
+```
+3. Run the sentiment analysis in another terminal tab
+```
+python client.py
+```
