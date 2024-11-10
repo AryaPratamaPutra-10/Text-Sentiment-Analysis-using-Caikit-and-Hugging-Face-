@@ -19,7 +19,7 @@
 <div>
 <h2 align="center"> Dokumentasi </h2>
   <p> 1. Install the requirements </p>
-  '''
-  pip install -r requirements.txt
-  '''
+  ```
+pip install -r requirements.txt
+```
 
