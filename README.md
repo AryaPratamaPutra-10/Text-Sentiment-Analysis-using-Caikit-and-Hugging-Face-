@@ -2,7 +2,7 @@
 <p align="center"> IBMSkillsNetwork GPXX0PYAEN </h1>
 
 ### Mentee Info
-### - Name : Arifian Saputra
+### - Name : Arya Pratama Putra
 ### - Program : IBM Advance AI @ Infinite Learning
 
 <div align="center">
