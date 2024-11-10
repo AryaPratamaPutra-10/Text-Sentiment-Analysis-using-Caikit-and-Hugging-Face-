@@ -1,6 +1,9 @@
 <h1 align="center"> Text Sentiment Analysis using Caikit and Hugging Face </h1>
 <p align="center"> IBMSkillsNetwork GPXX0PYAEN </h1>
 
+
+<p>Author : Cognitive Class AI
+Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Text Sentiment Analysis using Caikit and Hugging Face from CognitiveClass.ai</p>
 ### Mentee Info
 ### - Name : Arya Pratama Putra
 ### - Program : IBM Advance AI @ Infinite Learning
